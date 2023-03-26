@@ -1,2 +1,2 @@
-# food_classifier_pytorch
-A food classifier made using pytorch
+# cifar10_classifier_pytorch
+A classifier made using the CIFAR10 dataset
