@@ -44,12 +44,12 @@ The neural network is using the resnet50 model as fixed feature extractor.
 
 ### Built With
 
-Here are the things I used to build this project
+Here are the main things I used to build this project
 
 * Python
 * Matplotlib
 * Numpy
-* Tensorflow
+* Pytorch
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
